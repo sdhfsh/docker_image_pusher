@@ -3,5 +3,6 @@ redis:7.0.5
 kasmweb/nginx:1.25.3
 nacos/nacos-server:v2.1.1
 mysql
+openjdk:8
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 
