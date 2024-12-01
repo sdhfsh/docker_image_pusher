@@ -6,5 +6,6 @@ nacos/nacos-server:v2.1.1-slim
 nacos/nacos-server:v2.2.0
 mysql
 openjdk:8
+apache/rocketmq:4.9.2
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 hello-world
