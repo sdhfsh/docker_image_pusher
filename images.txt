@@ -9,3 +9,4 @@ openjdk:8
 apache/rocketmq:4.9.2
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 hello-world
+lfoppiano/grobid:0.7.1
